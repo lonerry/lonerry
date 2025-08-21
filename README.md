@@ -28,8 +28,3 @@
 ## 📫 Контакты
 - Telegram: https://t.me/lonerry
 - Телефон: +7 911 438‑41‑51
-
-## 📊 Статистика
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
-![Streak](https://streak-stats.demolab.com?user=yourusername&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_title=true)
