@@ -1,13 +1,9 @@
 {
   "login": "lonerry",
-  "from": "2025-11-28",
-  "to": "2026-11-27",
-  "total": 43,
+  "from": "2025-11-29",
+  "to": "2026-11-28",
+  "total": 42,
   "days": [
-    {
-      "date": "2025-11-28",
-      "count": 1
-    },
     {
       "date": "2025-11-29",
       "count": 0
@@ -1463,6 +1459,10 @@
     {
       "date": "2026-11-27",
       "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "count": 0
     }
   ],
   "profile": {
@@ -1475,7 +1475,7 @@
       "url": "https://github.com/lonerry/lonerry",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-11-26T14:02:15Z",
+      "pushedAt": "2026-11-27T14:00:34Z",
       "language": "Python",
       "languageColor": "#3572A5"
     },
